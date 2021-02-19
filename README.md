@@ -60,7 +60,7 @@ This is an *assignment-based course*. You'll be evaluated as follows:
 |------   | ------- |--------------------------| -------- | -------- | -------- |
 | 1   |  MT Intro & History | - PK CH01 ; - [Wikipedia Article](https://en.wikipedia.org/wiki/History_of_machine_translation)    |  .  | ```GIZA++ & MUSE``` [[Notebook](tutorials/week1/GIZA_tutorial.ipynb)]; [[video](https://youtu.be/dWRjV_BIaqk)] | .  |
 | 2   |  Word-Level Translation  | -  PK CH04; - [Word Translation without Parallel Data (MUSE)](https://arxiv.org/pdf/1710.04087.pdf); - Optional: [Context-Aware Cross-Lingual Mapping](https://www.aclweb.org/anthology/N19-1391.pdf)   | | | |
-| 3   |  Seq2Seq Models & Attention I | - [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf); [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850); Optional: [Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473); - [Grammar as a foreign language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf) | | | |
+| 3   |  Seq2Seq Models & Attention I | - [Sequence to sequence learning with neural networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf); [Generating Sequences With Recurrent Neural Networks](https://arxiv.org/pdf/1308.0850); Optional: [Neural machine translation by jointly learning to align and translate](https://arxiv.org/pdf/1409.0473); - [Grammar as a foreign language](https://papers.nips.cc/paper/5635-grammar-as-a-foreign-language.pdf) | | ```Seq2Seq + Evaluation``` [[Notebook](tutorials/week2/seq2seq_tutorial.ipynb)]; [[video](https://youtu.be/qP4uOuUGoh8)] | |
 | 4   |  Seq2Seq Models & Attention II | Same as last session | | | | 
 | 5   |   Eval |  - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf); - Optional: [METEOR: An automatic metric for MT evaluation with improved correlation with human judgments](https://www.aclweb.org/anthology/W05-0909.pdf) | | | |
 | 6   |   Transformers I  | [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)   | | | |
@@ -81,7 +81,7 @@ This is an *assignment-based course*. You'll be evaluated as follows:
 * [JM_CH03](https://web.stanford.edu/~jurafsky/slp3/3.pdf)
 * [Brown et al 1992](https://www.aclweb.org/anthology/J92-1002.pdf) 
 
-## Stle Transfer: 
+## Style Transfer: 
 * [Multiple-Attribute Text Style Transfer](https://arxiv.org/pdf/1811.00552.pdf)
 * [Dear sir or madam, may i introduce the gyafc dataset: Corpus, benchmarks and metrics for formality style transfer](https://arxiv.org/pdf/1803.06535.pdf)
 * [Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation Comprehension](https://papers.nips.cc/paper/9284-controllable-unsupervised-text-attribute-transfer-via-editing-entangled-latent-representation.pdf)
@@ -89,8 +89,8 @@ This is an *assignment-based course*. You'll be evaluated as follows:
 ---
 ### Where to find good papers:
 * [[ACL Anthology](https://www.aclweb.org/anthology/)]
-* [[NeurIPS 2019 papers](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]; [[NeurIPS 2018 proceedings](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)]
-* [[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)]; [[ICLR 2018](https://dblp.org/db/conf/iclr/iclr2018)]
+* [[NeurIPS 2020](https://papers.nips.cc/paper/2020)]; [[NeurIPS 2019](https://nips.cc/Conferences/2019/AcceptedPapersInitial)]; [[NeurIPS 2018](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018)]
+* [[ICLR 2020](https://iclr.cc/virtual_2020/papers.html?filter=keywords)]; [[ICLR 2019](https://iclr.cc/Conferences/2019/Schedule?type=Poster)]; [[ICLR 2018](https://dblp.org/db/conf/iclr/iclr2018)]
 * [[AAAI Digital Library](https://www.aaai.org/Library/conferences-library.php)]
 
 # Policies
