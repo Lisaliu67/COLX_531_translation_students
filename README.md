@@ -64,7 +64,7 @@ This is an *assignment-based course*. You'll be evaluated as follows:
 | 4   |  Seq2Seq Models & Attention II | Same as last session | [[video](xx)]; ```pwd:``` | | | 
 | 5   |   Eval |  - [BLEU: a Method for Automatic Evaluation of Machine Translation](https://www.aclweb.org/anthology/P02-1040.pdf); - Optional: [METEOR: An automatic metric for MT evaluation with improved correlation with human judgments](https://www.aclweb.org/anthology/W05-0909.pdf) | [[video](xx)]; ```pwd:``` | | |
 | 6   |   Transformers I  | [Attention is all you need](https://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)   | Recordings: [Transformer 1](https://www.youtube.com/watch?v=IoXR8z-nfYI)  [[video](xx)]; ```pwd:``` | | |
-| 7   |   Transformers II  |  [[video](xx)]; ```pwd:```; [Transformer 2](https://www.youtube.com/watch?v=4Z5gkkCptHI)   | | | | 
+| 7   |   Transformers II  |     | [[video](xx)]; ```pwd:```; [Transformer 2](https://www.youtube.com/watch?v=4Z5gkkCptHI) | | | 
 | 8   |  Back-Translation & Multilingual NMT | -  [Improving Neural Machine Translation Models with Monolingual Data](https://arxiv.org/pdf/1511.06709.pdf); - [Google's neural machine translation system: Bridging the gap between human and machine translation](https://arxiv.org/pdf/1609.08144.pdf); - Optional: [Investigating Multilingual NMT Representations at Scale](https://arxiv.org/pdf/1909.02197.pdf); - [Massively Multilingual Sentence Embeddings for Zero-Shot Cross-Lingual Transfer and Beyond](https://www.mitpressjournals.org/doi/pdf/10.1162/tacl_a_00288)   | [[video](xx)]; ```pwd:``` | | | 
 
 # Resources
